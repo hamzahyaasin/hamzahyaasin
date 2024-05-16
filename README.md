@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamzahyaasin
-- 👀 I’m interested in Python ad Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I take interest in Machine learning, Data Science, and AI.
+- 🌱 I’m currently an undergrad at NUML university.
 - 💞️ I’m looking to collaborate on any learning platform
 - 📫 hamzasmart07@gmail.com
 - 🌐 hamzayasin.me
