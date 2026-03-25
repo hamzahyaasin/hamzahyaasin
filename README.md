@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hamzahyaasin
-- 👀 I take an interest in competitive programming.
-- 🌱 I’m currently an undergrad at NUML University.
-- 💞️ I’m looking to collaborate on any learning platform
-- 📫 hamzasmart07@gmail.com
+- Software Engineer with a strong focus on Python and FastAPI for building efficient backend systems. Skilled in data structures, algorithms, and competitive programming, with a problem-solving mindset. Also interested in Machine Learning, aiming to develop intelligent and scalable real-world solutions.
+- 📫 hamzahyaasin@gmail.com
 - www.linkedin.com/in/hamzahyaasin
 <!---
 hamzahyaasin/hamzahyaasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
